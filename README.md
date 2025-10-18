@@ -25,13 +25,14 @@ Global active/reactive power
 Voltage and current intensity
 Sub-metering for kitchen, laundry, and HVAC appliances
 
-smart-grid-energy-analytics/
+```smart-grid-energy-analytics/
 ├── data/
 │   └── household_sample.csv
 ├── 01_data_exploration.py
 ├── 02_anomaly_detection.py
 ├── 03_demand_forecasting.py
 └── README.md
+```
 
 Installation & Setup
 Clone the repository:
@@ -104,7 +105,7 @@ Author
 Jairaghavendra Sridhar
 
 Data Analytics Engineering
-LinkedIn www.linkedin.com/in/jairaghavendrasridhar26
+LinkedIn (www.linkedin.com/in/jairaghavendrasridhar26)
 
 License
 This project is available for educational and portfolio purposes.
